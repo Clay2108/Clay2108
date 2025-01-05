@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I am Clayton Raymond
+🌱 I’m currently learning full stack web development
 <!--
 **Clay2108/Clay2108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
